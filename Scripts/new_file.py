@@ -9,4 +9,5 @@ def new_file():
     else:
         f = open(name_file + '.' + file_extension, 'w')
 
+
 new_file()

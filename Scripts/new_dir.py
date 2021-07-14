@@ -1,5 +1,4 @@
 
-
 def new_dir():
     import os
     name_dir = input('Название новой папки:\n')
